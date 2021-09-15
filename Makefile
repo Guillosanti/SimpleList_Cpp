@@ -8,4 +8,4 @@ list.o: list.cpp
 	g++ -c list.cpp
 
 clean:
-	rm *.o main
+	rm *.o
